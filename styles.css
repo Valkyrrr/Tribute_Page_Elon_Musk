@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;1,400&family=Oswald:wght@300;600&display=swap');
+
+* {
+    font-family:Oswald, sans-serif;
+    background: #283048;
+    background: -webkit-linear-gradient(to right, #859398, #283048);
+    background: linear-gradient(to right, #859398, #283048);
+
+}
+
+body {
+    margin-top:60px;
+    margin-bottom:60px;
+}
+
+header {
+    font-weight: 700;
+    color:azure;
+}
+
+.title {
+    color: azure;
+}
+
+.container{
+    color:azure;
+    text-align: left;
+    border: 1px solid #000;
+    padding: 10px;
+}
+
+
+
